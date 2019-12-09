@@ -1,0 +1,69 @@
+Topics:
+    - Introduction:
+        - Why
+        - Who
+            - uses
+            - created
+        - where
+        - which:
+            - 2.x
+            - 3.x
+            - python
+            - superset of python
+    - Installaton:
+        - Linux
+    - Devlopment Environment:
+        - IDEs (vsc, atom, sublime, pycharm etc.,)
+    - Data types:
+        - intro
+        - integers
+        - strings
+        - floats
+        - lists
+        - tuple
+        - set:
+            - set
+            - frozenset
+        - dictionary
+    - Operators:
+    - Conditional statments:
+        - if
+        - if else
+        - if elif else
+    - loops:
+        - for
+        - while
+    - flow control:
+        - break, continue, pass
+    - explore and inspect
+    - copy:
+        - shallow
+        - deep
+    - package management
+    - virtual Environment
+    - functions:
+        - nested functions
+        - ternary
+        - *args
+        - **kwargs
+    - closures
+    - decorators
+    - exceptions and error handling
+    - variables
+    - comprehension:
+        - lists
+        - set
+        - dictionary
+    - resource or context management
+    - OOP:
+        - class
+        - encapsulation
+        - magic/dunder methods
+        - polymorphism
+        - inheritance, override and super()
+    - handline files:
+        - text CRUD
+        - json CRUD
+        - xml CRUD
+        - yml/yaml CRUD
+        - csv CRUD
