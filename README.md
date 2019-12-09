@@ -1,2 +1,2 @@
 # python38
-a self study of python3.8
+## What should you know to know that you know python (3.8)
